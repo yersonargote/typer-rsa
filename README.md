@@ -36,3 +36,9 @@ python3 main.py save --user user --passw password
 ```bash
 python3 main.py get --user user
 ```
+
+# Links used
+
+***[Discussions on Python.org How to use RSA public key to decrypt ciphertext in Python？](https://discuss.python.org/t/how-to-use-rsa-public-key-to-decrypt-ciphertext-in-python/2919/3)***
+
+***[Implementing RSA Encryption and Decryption in Python](https://www.section.io/engineering-education/rsa-encryption-and-decryption-in-python/)***
